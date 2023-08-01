@@ -36,7 +36,8 @@ function toggleMobileMenu() {
         shoppingCartContainer.classList.add('inactive');
     }
 
-    closeProductDetailAside()
+    closeProductDetailAside();
+
     mobileMenu.classList.toggle('inactive');
 }
 
